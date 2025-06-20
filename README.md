@@ -1,0 +1,1 @@
+# Gerador-QR_code
